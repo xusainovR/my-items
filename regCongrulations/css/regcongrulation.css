@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/12/16/15/25/christmas-1911637_960_720.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2 {
+    font-family: 'Amatic SC', cursive;
+}
+.thanks {
+    background: #f8c28d;
+    width: 283px;
+    height: 122px;
+    margin-top: 12%;
+    color: #29100b;
+    margin-left: 39%;
+}
+.vid {
+    margin-left: 29%;
+}#btn1 {
+    width: 450px;
+    margin-left: 58px;
+    height: 40px;
+    background: #e5a66b;
+    border-color: #e5a66b;
+    border-radius: 5px;
+    font-family: 'Amatic SC', cursive;
+    color: #582000;
+}
+#btn1:hover {
+    background: #974616;
+    color: #f8c28d;
+    border-color: #974616;
+}

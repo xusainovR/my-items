@@ -1,0 +1,66 @@
+body {
+    background-image: url(/img/reg_background.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#lck {
+    color: #34aadc;
+    margin-left: 155px;
+}
+.frm {
+    background-color: rgba(255, 255, 255, 0.685);
+    width: 350px;
+    border-radius: 10px;
+    height: 400px;
+    margin-left: 37%;
+    margin-top: 120px;
+}
+#email {
+    width: 300px;
+    box-sizing: border-box;
+    margin-left: 25px;
+    margin-top: 5px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: #b6b6b6;
+    margin: 1em;
+}
+#pswd {
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 5px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: #b6b6b6;
+    margin: 1em;
+    box-sizing: border-box;
+}
+.lckd {
+    padding-top: 25px;
+}
+.number {
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 5px;
+    height: 30px;
+    margin: 1em;
+}
+#age {
+    font-family: 'Oxanium',cursive;
+    color: #34aadc;
+}
+#regbtn {
+    font-family: 'Oxanium',cursive;
+    color: #34aadc;
+    height: 40px;
+    width: 300px;
+    margin-left: 23px;
+    background-color: #142664;
+    border-color: #142664;
+}
+#regbtn:hover {
+    background-color: #34aadc;
+    color: #142664; 
+    border-color: #34aadc;
+}
